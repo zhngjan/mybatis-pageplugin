@@ -1,2 +1,2 @@
 # mybatis-pageplugin
-mybatis鍒嗛〉鎻掍欢
+简洁、易用、灵活的mybatis分页插件
